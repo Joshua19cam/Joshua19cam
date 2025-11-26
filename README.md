@@ -12,7 +12,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="html5" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8422/8422300.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8476/8476063.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1200/flutter.jpg" alt="nodejs" width="40" height="40"/> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> 
   
 <!--
 **Joshua19cam/Joshua19cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
