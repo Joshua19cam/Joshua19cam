@@ -8,11 +8,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="java" width="100" height="100"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="java" width="80" height="80"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="html5" width="80" height="80"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8422/8422300.png" alt="javascript" width="60" height="60"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8476/8476063.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8422/8422300.png" alt="javascript" width="80" height="80"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8476/8476063.png" alt="mysql" width="80" height="80"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="80" height="80"/> 
   
 <!--
 **Joshua19cam/Joshua19cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
