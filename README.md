@@ -9,6 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="java" width="80" height="80"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-laravel-logo-icon-svg-download-png-7417040.png" alt="html5" width="80" height="80"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="html5" width="80" height="80"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8422/8422300.png" alt="javascript" width="80" height="80"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8476/8476063.png" alt="mysql" width="80" height="80"/> </a> 
