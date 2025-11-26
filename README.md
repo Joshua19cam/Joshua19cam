@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Campos Haro</h1>
 <h3 align="center">I'm a computer systems engineer currently working on becoming in a senior software developer.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 
 <p align="left">
 </p>
